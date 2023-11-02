@@ -3,7 +3,7 @@
 ![Failed to upload photo](https://avatars.githubusercontent.com/u/77291278?s=400&u=f50fc2193cc28c505f3af9e2a34ea69a92fcebd2&v=4)
 
 :telephone_receiver: Phone: +375-33-995-25-49  
-:iphone: Discord: Alex Khavronin (@AlexIHavr)
+:iphone: Discord: Alex Khavronin (@AlexIHavr)  
 :email: Email: [dchavronin@bk.ru](dchavronin@bk.ru)  
 :octocat: GitHub: [https://github.com/AlexIHavr](https://github.com/AlexIHavr)
 
