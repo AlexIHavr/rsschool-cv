@@ -69,4 +69,4 @@ In April, 2022 I started my traineeship at iTechArt Company as full-stack JavaSc
 
 ## English Language
 
-At present my English proficiency level is B1 (Intermediate). I started studying English (from scratch) from the first year at university. I had a lot of practice in special group and by myself. After graduation from university, I continued my studies in the traineeship and work now.
+At present my English proficiency level is [B1 (Intermediate)](https://efset.org/cert/7cvvmB). I started studying English (from scratch) from the first year at university. I had a lot of practice in special group and by myself. After graduation from university, I continued my studies in the traineeship and work now.
